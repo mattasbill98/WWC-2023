@@ -9,4 +9,4 @@ The US Women's National Team (USWNT) was eliminated in the 2023 Women's World Cu
 * WWC Analysis Report - SAS Visual Analytics Report that includes the dashboards and graphs shown in the written analysis. The xml file located within the zip file can be used to generate the report within SAS Visual Analytics after the data files above have been loaded to the server.
 
 ## Data
-The data included in this repo was pulled from fbref.com and loaded into excel sheets for use. I used the excel web query to load the tables in.
+The data included in this repo was pulled from [fbref.com](https://fbref.com/en/comps/106/Womens-World-Cup-Stats) and loaded into excel sheets for use. I used the excel web query to load the tables in.
