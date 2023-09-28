@@ -1,7 +1,7 @@
 # USWNT Performance at the Women's World Cup 2023 Analysis
 The US Women's National Team (USWNT) was eliminated in the 2023 Women's World Cup in the Round of 16 which was their earliest exit ever. This analysis takes a look at why the US team underperformed this year, compares their performance to when they won it all in 2019, and looks at whether the team should be worried for the future.
 
-[Link to Written Analysis](https://www.google.com](https://medium.com/@mattasbill98/analyzing-the-uswnts-performance-at-the-2023-women-s-world-cup-ed84c1cfabfb)https://medium.com/@mattasbill98/analyzing-the-uswnts-performance-at-the-2023-women-s-world-cup-ed84c1cfabfb)
+[Link to Written Analysis](https://medium.com/@mattasbill98/analyzing-the-uswnts-performance-at-the-2023-women-s-world-cup-ed84c1cfabfb)
 
 ## Files
 * __Womens World Cup Match Data_2023__ - This includes match data for each game that the US participated in during the 2023 World Cup. Team statistics for both the US and their opponents as well as individual player stats for each team can be found here.
